@@ -1,0 +1,23 @@
+.App {
+  padding: 20px;
+  text-align: left;
+}
+.won-card{
+  background-color: #3FA88A;
+}
+
+.lost-card{
+  background-color: #C44B58;
+}
+
+.won-hover{
+  :hover{
+      color:#C44B58 ;
+  }
+}
+
+.lost-hover{
+  :hover{
+      color:#3FA88A;
+  }
+}
